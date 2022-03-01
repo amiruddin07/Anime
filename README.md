@@ -7,8 +7,12 @@
     <title>Anime</title>
 
 <style>
+  img{
+    padding-left: 50px;
+  }
     body {
   overflow: none;
+  padding-left: 300px;
 }
 h1 {
   font-family: 'Orbitron', sans-serif;
